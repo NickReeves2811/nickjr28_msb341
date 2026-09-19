@@ -3,21 +3,21 @@
 > One sentence: what this is and who it is for.
 
 **Where to see it:** [URL, or where the work lives: a live app, a published page, a model in this repo]
-**Built by:** [your name], MSB 341 Product Management, BYU
+**Built by:** Nick Reeves, MSB 341 Product Management, BYU
 
 ## Context
 
 Fill this in during Sprint 1 and keep it current. Every sprint is read against it.
 
-- **My role:** [the hats you wear, and what you own. Most roles combine several: product,
-  engineering, design, go-to-market, pricing, analytics, operations. A solo builder wears most
-  of them]
-- **What I am working on:** [your product, or your part of a team's product. "Not decided" is
-  fine early on; list the options you are weighing]
-- **Who it is for:** [the customer or segment the work ultimately serves]
-- **Who uses my work:** [the specific person who will use what you make, and how you reach
-  them. On a team this can be your teammates: engineers using your specs, sales using your
-  pricing]
+- **My role:** Product management. Most of my time goes to discovery, customer interviews,
+  selling, testing with users, and pricing. I can help with building, but it is not my main
+  strength.
+- **What I am working on:** Charting software for functional medicine physicians with
+  independent clinics.
+- **Who it is for:** Functional medicine physicians with independent clinics. The physician
+  is the buyer.
+- **Who uses my work:** Physicians use it directly. I am working solo for now. Future
+  teammates will use my work as they help build the specs I have identified.
 
 If your situation changes, revise this and note what changed. That is normal; a silent
 mismatch between this file and your work is not.
