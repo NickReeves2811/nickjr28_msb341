@@ -7,3 +7,9 @@
 **Done looks like:** I have presented a product demo (anything that demonstrates the product's value) and asked a potential customer to pay for it 4 times, with a different iteration each time. A yes means I have their payment information. I will either have new pending customers or a blank slate to find PULL elsewhere.
 
 **Predicted difficulty:** 4
+
+**Actual difficulty:** 5.
+
+**Why it differed:** Reaching potential customers took longer than expected, so I got only 1 demo and 1 unrelated call in two weeks.
+
+**Retro:** I didn't hit the goal. I gave 1 of 4 demos, didn't ask for payment in that demo, and had one call with a new prospect whose interests didn't match the demo. What slowed me down was how fast I can reach potential customers. Next sprint, I'll put in more hours.
